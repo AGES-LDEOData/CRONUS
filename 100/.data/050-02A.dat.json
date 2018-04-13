@@ -1,0 +1,45 @@
+{
+    "baselines": [
+        {
+            "blob": "Qxl69QAAAABDGXr1AAAAAEMZevUAAAAAQxqbXAAAAABDGptcAAAAAEMam1wAAAAAQxu4DgAAAABDG7gOAAAAAEMbuA4AAAAAQxzT7wAAAABDHNPvAAAAAEMc0+8AAAAAQx3y3z+AAABDHfLfP4AAAEMd8t8/gAAAQx8SWAAAAABDHxJYAAAAAEMfElgAAAAAQyAxYgAAAABDIDFiAAAAAEMgMWIAAAAAQyFQxgAAAABDIVDGAAAAAEMhUMYAAAAAQyJs1gAAAABDImzWAAAAAEMibNYAAAAAQyOIkAAAAABDI4iQAAAAAEMjiJAAAAAAQySm3QAAAABDJKbdAAAAAEMkpt0AAAAAQyXDQAAAAABDJcNAAAAAAEMlw0AAAAAAQybf6AAAAABDJt/oAAAAAEMm3+gAAAAAQyf9fQAAAABDJ/19AAAAAEMn/X0AAAAAQykZ7wAAAABDKRnvAAAAAEMpGe8AAAAAQyo2cwAAAABDKjZzAAAAAEMqNnMAAAAAQytUfwAAAABDK1R/AAAAAEMrVH8AAAAAQyxw4QAAAABDLHDhAAAAAEMscOEAAAAA", 
+            "detector": "L2"
+        }
+    ], 
+    "commit": "f444a8c88a0112c9d5127e6ee87821b20d4e54e7", 
+    "encoding": "base64", 
+    "format": ">ff", 
+    "signals": [
+        {
+            "blob": "Qi7SM0aJcgBCM0JqRojkAEI3zkFGiSoAQjyCoEaGqgBCQQLPRon4AEJFhmxGh1gAQkoIDkaIJABCTok4RopiAEJS/C5GiDIAQld7SEaKmgBCW+1ARoeuAEJgeBlGigAAQmTrQkaJmgBCaWzzRoncAEJt705GimwAQnJlS0aIjABCdtuPRojcAEJ7WbNGiRwAQn/YRUaLcABCgiSbRomgAEKEZgtGiCIAQoalrUaJYgBCiOScRokeAEKLHuxGiJ4AQo1YP0aK7ABCj5mkRolGAEKR2MhGiyoAQpQX1UaN0gBCllxpRovmAEKYly5GiU4AQumoQEaKCgBC6/BSRoqqAELuNqdGi6IAQvB+/0aLLABC8sfNRoo4AEL1EaBGipgAQvdP2kaLTABC+ZejRousAEL71XlGiQQAQv4gS0aI1ABDADV/RouOAEMBXctGjEIAQwKCz0aIJgBDA6jPRojeAEMEzJhGiYwAQwXyg0aLDgBDBxaLRoouAEMIO+9GiUwAQwleHEaJyABDCn3ZRoiWAEMLnSxGiuAAQwzFzUaJKgBDDf+cRopKAEMPJBJGiqoAQxBJK0aIGABDEW3MRoscAEMSkgtGi4YAQxO5KkaL/gA=", 
+            "detector": "L2", 
+            "isotope": "Ne21"
+        }, 
+        {
+            "blob": "Qsev20kWdZBCyffHSRaFQELMP1tJFnugQs6AsEkXG3BC0NL8SRba0ELTHNBJFs/AQtVpQEkW5xBC17sISRdxAELaBctJF02gQtxNy0kXK1A=", 
+            "detector": "L2", 
+            "isotope": "Ne22"
+        }, 
+        {
+            "blob": "QqXqBAAAAABCqC7RAAAAAEKqdYAAAAAAQqyxTgAAAABCrvVLAAAAAEKxOgAAAAAAQrOBBwAAAABCtcQ7AAAAAEK4CYgAAAAAQrpO/AAAAAA=", 
+            "detector": "L2", 
+            "isotope": "Ne20"
+        }
+    ], 
+    "sniffs": [
+        {
+            "blob": "", 
+            "detector": "L2", 
+            "isotope": "Ne21"
+        }, 
+        {
+            "blob": "", 
+            "detector": "L2", 
+            "isotope": "Ne22"
+        }, 
+        {
+            "blob": "P48QNEg5sIBADyezAAAAAEBWaroAAAAAQI6cTAAAAABAskwsAAAAAEDVrUEAAAAAQPkY3wAAAABBDkBgAAAAAEEf9AYAAAAAQTG1EgAAAABBQ2XFAAAAAEFjhJMAAAAAQXVbNQAAAABBg4ZVAAAAAEGMXAkAAAAAQZU3VQAAAABBnh8+AAAAAEGm+MMAAAAAQa/S0AAAAABBuKmgAAAAAEHIvq0AAAAAQdGqKAAAAABB2oPbAAAAAEHjYQgAAAAAQexPEgAAAABB9SV9AAAAAEICk2kAAAAAQgcJJgAAAABCC3RdAAAAAEITfLgAAAAA", 
+            "detector": "L2", 
+            "isotope": "Ne20"
+        }
+    ]
+}
