@@ -1,0 +1,64 @@
+{
+    "acquisition_software": "Pychron18.2(Exp0.2,DVC0.1)", 
+    "aliquot": 1, 
+    "analysis_type": "unknown", 
+    "analyst_name": "root", 
+    "comment": "", 
+    "commit": "f073d2f2494da5a16f366096d972b620e26d4886", 
+    "conditionals": null, 
+    "data_reduction_software": "Pychron18.2(DVC0.1)", 
+    "detectors": {
+        "L2": {
+            "deflection": null, 
+            "gain": null
+        }
+    }, 
+    "environmental": {
+        "lab_humiditys": [], 
+        "lab_pneumatics": [], 
+        "lab_temperatures": []
+    }, 
+    "experiment_queue_name": "Load24", 
+    "extraction": "ngx_co2.py", 
+    "identifier": "100051", 
+    "increment": 0, 
+    "instrument_name": "", 
+    "intensity_scalar": 0.0, 
+    "irradiation": "NoIrradiation", 
+    "irradiation_level": "A", 
+    "irradiation_position": 8, 
+    "isotopes": {
+        "Ne20": {
+            "detector": "L2", 
+            "name": "Ne20"
+        }, 
+        "Ne21": {
+            "detector": "L2", 
+            "name": "Ne21"
+        }, 
+        "Ne22": {
+            "detector": "L2", 
+            "name": "Ne22"
+        }
+    }, 
+    "laboratory": "", 
+    "mass_spectrometer": "Ngx", 
+    "material": "hematite", 
+    "measurement": "ngx_ne.py", 
+    "post_equilibration": "ngx_pump_unknown.py", 
+    "post_measurement": "ngx_pump_ms.py", 
+    "project": "Moab", 
+    "queue_conditionals_name": "", 
+    "repository_identifier": "CRONUS", 
+    "sample": "Hagadorn", 
+    "source": {
+        "emission": 1797.58, 
+        "trap": 200.02329
+    }, 
+    "spec_sha": "da39a3ee5e6b4b0d3255bfef95601890afd80709", 
+    "timestamp": "2018-04-23T15:06:19.613803", 
+    "tripped_conditional": null, 
+    "username": "root", 
+    "uuid": "c4f7eea1-b976-4249-9b96-2013a3f92431", 
+    "whiff_result": null
+}
