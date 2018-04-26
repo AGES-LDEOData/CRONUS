@@ -1,0 +1,64 @@
+{
+    "acquisition_software": "Pychron18.2(Exp0.2,DVC0.1)", 
+    "aliquot": 4, 
+    "analysis_type": "unknown", 
+    "analyst_name": "root", 
+    "comment": "", 
+    "commit": "dc915756f3cf5295c09eff55a81632469f46d0b5", 
+    "conditionals": null, 
+    "data_reduction_software": "Pychron18.2(DVC0.1)", 
+    "detectors": {
+        "L2": {
+            "deflection": null, 
+            "gain": null
+        }
+    }, 
+    "environmental": {
+        "lab_humiditys": [], 
+        "lab_pneumatics": [], 
+        "lab_temperatures": []
+    }, 
+    "experiment_queue_name": "Load26", 
+    "extraction": "ngx_co2.py", 
+    "identifier": "100050", 
+    "increment": 6, 
+    "instrument_name": "", 
+    "intensity_scalar": 0.0, 
+    "irradiation": "NoIrradiation", 
+    "irradiation_level": "A", 
+    "irradiation_position": 7, 
+    "isotopes": {
+        "Ne20": {
+            "detector": "L2", 
+            "name": "Ne20"
+        }, 
+        "Ne21": {
+            "detector": "L2", 
+            "name": "Ne21"
+        }, 
+        "Ne22": {
+            "detector": "L2", 
+            "name": "Ne22"
+        }
+    }, 
+    "laboratory": "", 
+    "mass_spectrometer": "Ngx", 
+    "material": "clinopyroxene", 
+    "measurement": "ngx_ne.py", 
+    "post_equilibration": "ngx_pump_unknown.py", 
+    "post_measurement": "ngx_pump_ms.py", 
+    "project": "CRONUS", 
+    "queue_conditionals_name": "", 
+    "repository_identifier": "CRONUS", 
+    "sample": "NPX", 
+    "source": {
+        "emission": 1797.58, 
+        "trap": 200.00519
+    }, 
+    "spec_sha": "da39a3ee5e6b4b0d3255bfef95601890afd80709", 
+    "timestamp": "2018-04-26T09:40:32.512343", 
+    "tripped_conditional": null, 
+    "username": "root", 
+    "uuid": "f2e184c7-fa91-46ff-810e-4d9ba06d8cc7", 
+    "whiff_result": null
+}
