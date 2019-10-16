@@ -1,0 +1,20 @@
+{
+    "AX_CDD": {
+        "error": 0.0,
+        "fit": "default",
+        "references": [],
+        "value": 1.0
+    },
+    "H2_CDD": {
+        "error": 0.0,
+        "fit": "default",
+        "references": [],
+        "value": 1.0
+    },
+    "L2_CDD": {
+        "error": 0.0,
+        "fit": "default",
+        "references": [],
+        "value": 1.0
+    }
+}
