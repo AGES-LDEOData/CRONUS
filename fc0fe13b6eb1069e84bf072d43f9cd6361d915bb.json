@@ -1,0 +1,54 @@
+{
+    "deflections": {
+        "AX": 0.0,
+        "AX_CDD": 0.0,
+        "H1": 0.0,
+        "H1_CDD": 0.0,
+        "H2": 0.0,
+        "H2_CDD": 0.0,
+        "L1": 0.0,
+        "L1_CDD": 0.0,
+        "L2": 0.0,
+        "L2_CDD": 0.0
+    },
+    "gains": {
+        "AX": 1.0,
+        "AX_CDD": 0.0,
+        "H1": 1.0,
+        "H1_CDD": 0.0,
+        "H2": 1.0,
+        "H2_CDD": 0.0,
+        "L1": 1.0,
+        "L1_CDD": 0.0,
+        "L2": 1.0,
+        "L2_CDD": 0.0
+    },
+    "settings": {
+        "deflection": {
+            "AX": 0.0,
+            "AX_CDD": 0.0,
+            "H1": 0.0,
+            "H1_CDD": 0.0,
+            "H2": 0.0,
+            "H2_CDD": 0.0,
+            "L1": 0.0,
+            "L1_CDD": 0.0,
+            "L2": 0.0,
+            "L2_CDD": 0.0
+        },
+        "magnet": {
+            "mftable": "mftable"
+        },
+        "source": {
+            "electronenergy": 60.0,
+            "extractionlens": 40.0,
+            "ionrepeller": -4.0,
+            "operatingvoltage": 1750.0,
+            "ysymmetry": -1.0,
+            "zfocus": 25.0,
+            "zsymmetry": 11.5
+        },
+        "trap": {}
+    },
+    "spectrometer": {}
+}
